@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Hello World"
-categories: 
+categories: test
 tags: test
 author: Robin
 ---
