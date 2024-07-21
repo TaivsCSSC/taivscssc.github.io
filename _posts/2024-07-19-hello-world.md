@@ -20,6 +20,9 @@ author: Robin
 Latex<br>
 $$
 e^{i\pi}+1=0
+$$
+
+$$
 e^i\pi+1=0
 $$
 
