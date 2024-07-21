@@ -10,3 +10,11 @@ author: Robin
 這個網站還在測試中
 
 
+
+Latex<br>
+$$e^{i\pi}+1=0$$
+
+Code<br>
+```cpp
+std::cout<<"Hello World"<<endl;
+```
