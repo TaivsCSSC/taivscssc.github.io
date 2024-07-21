@@ -21,6 +21,7 @@ Ice1187的臺灣資安資源整理Orz
 * [三校聯合暑期資訊培訓營](https://youtube.com/playlist?list=PL_815psSzw1FATzqwJdWaWJHGcH4F6DUz&si=DfG64T1q4hHnpe6H)<br>
 * [木子喵](https://space.bilibili.com/27735697/channel/collectiondetail?sid=351108&ctype=0)<br>
 Apex大師VTuber教演算法誒<br>
+* [OI Wiki](https://oi-wiki.org/)
 
 ## 動漫推薦
 * [憂國的莫里亞蒂](https://youtube.com/playlist?list=PL12UaAf_xzfrpcYrSWfrrDUEtP-ns5OOk&si=MXEHZkW4r4iJjEjI)
