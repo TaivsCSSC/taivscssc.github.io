@@ -10,6 +10,7 @@ type: page
 {:toc}
 ## Intro
 哈囉大家好，我們是大安高工資訊安全社(1st)，是個剛創立的社團~<br>
+這個網站會用於上傳社團課的repo，會同步我們的Instagram
 
 ### Member
 - 社長：資訊二甲 江寬泓
