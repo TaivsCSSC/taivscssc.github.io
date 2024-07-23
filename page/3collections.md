@@ -24,7 +24,7 @@ Apex大師VTuber教演算法誒<br>
 * [OI Wiki](https://oi-wiki.org/)
 
 ## Other
-* [提問的技巧](https://github.com/ryanhanwu/How-To-Ask-Questions-The-Smart-Way)
+* [提問的智慧](https://github.com/ryanhanwu/How-To-Ask-Questions-The-Smart-Way)
 * [數學思維](https://www.youtube.com/watch?v=kZTKuMBJP7Y&list=LL&index=41&t=625s&ab_channel=TheRoyalInstitution)
 
 
