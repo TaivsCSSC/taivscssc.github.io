@@ -9,6 +9,8 @@ author: Robin | 社長
 * content
 {:toc}
 
+發布文章基礎教學
+
 ## Warning
 社團幹部才有權限在此發布文章
 
@@ -31,6 +33,9 @@ author: Robin | 社長
     * content
     {:toc}
 
+   <intro>
+
+   ## <標題(多少個都無所謂)>
    <你的內容>
    ```
 4. 完成後即可按下`Commit changes`
