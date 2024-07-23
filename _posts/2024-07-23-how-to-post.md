@@ -11,10 +11,15 @@ author: Robin | 社長
 
 發布文章基礎教學
 
-## Warning
+
+
+
+
+
+# Warning
 社團幹部才有權限在此發布文章
 
-## 基本步驟
+# 基本步驟
 1. 進去CSSC的GitHub，找到`taivscssc.github.io/_posts`
 2. 選擇`Add file`，檔案名稱規範如下:
    ```
@@ -35,10 +40,10 @@ author: Robin | 社長
 
    <intro>
 
-   ## <標題(多少個都無所謂)>
+   # <標題(多少個都無所謂)>
    <你的內容>
    ```
 4. 完成後即可按下`Commit changes`
-### Markdown語法
+## Markdown語法
 基本markdown語法可參閱[官方文檔](https://markdown.tw/)<br>
-文章標題請統一從H2標題開始用，請不要用H1
+文章標題請用H1
