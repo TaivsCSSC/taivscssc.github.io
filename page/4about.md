@@ -18,6 +18,8 @@ type: page
 - 公關長：電圖二甲 潘柏熙
 - 會計：控制二甲 郭又寧
 
+### Contact
+- [Instagram](https://www.instagram.com/taivs.cssc/)
 ## Comments
 
 {% include comments.html %}
