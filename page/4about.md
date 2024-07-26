@@ -23,9 +23,7 @@ type: page
 - [Instagram](https://www.instagram.com/taivs.cssc/)
 
 最後，如果有任何問題，請連絡社長
-- [Instagram](https://www.instagram.com/cmaker117/)
 - Discord：arc_testify
-- Email：s1206105@taivs.tp.edu.tw
 # Comments
 
 {% include comments.html %}
